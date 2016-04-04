@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fotag</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_search">Search</string>
+    <string name="action_star_1">1 Star</string>
+    <string name="action_star_2">2 Stars</string>
+    <string name="action_star_3">3 Stars</string>
+    <string name="action_star_4">4 Stars</string>
+    <string name="action_star_5">5 Stars</string>
+</resources>
